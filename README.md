@@ -1,7 +1,6 @@
 # 🔴 MarsBase v1.2.0
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://marsbase.streamlit.app)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/marsbase?style=social)](https://github.com/YOUR_USERNAME/marsbase)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![NASA MRO Data](https://img.shields.io/badge/Data-NASA%20MRO-orange)](https://mars.nasa.gov/msl/)
